@@ -1,0 +1,12 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": "airbnb",
+  "rules": {
+    "no-console": 0,
+    "react/jsx-no-bind": 0,
+    "react/forbid-prop-types": 0,
+    "import/extensions": 0
+  }
+}
